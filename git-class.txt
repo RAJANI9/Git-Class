@@ -1,1 +1,2 @@
 This second class of git
+this is second line 
